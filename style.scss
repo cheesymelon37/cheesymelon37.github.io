@@ -20,7 +20,7 @@ html {
 body {
 	background-image: url("http://getwallpapers.com/wallpaper/full/2/4/f/319951.jpg");
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $blue;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: $blue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -63,7 +63,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $blue;
 }
 
 p {
@@ -158,7 +158,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $blue;
 
   @include mobile {
     text-align: center;
@@ -227,7 +227,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $blue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -258,7 +258,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $blue;
     font-size: 22px;
     font-style: italic;
   }
@@ -277,7 +277,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $blue;
 }
 
 footer {
