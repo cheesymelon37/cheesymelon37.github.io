@@ -173,9 +173,7 @@ img {
   float: middle;
   width: 120px;
   height: 130px;
-margin-left: 200px;
-	margin-right: 0px;
-	margin-bottom: 200px;
+}
 
   @include mobile {
     float: none;
