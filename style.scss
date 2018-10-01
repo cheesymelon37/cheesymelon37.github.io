@@ -19,9 +19,6 @@ html {
 
 body {
 	background-image: url("http://getwallpapers.com/wallpaper/full/2/4/f/319951.jpg");
-	margin-left: 200px;
-	margin-right: 0px;
-	margin-bottom: 200px;
   font: 18px/1.4 $helvetica;
   color: $blue;
 }
@@ -176,7 +173,9 @@ img {
   float: left;
   width: 120px;
   height: 130px;
-  margin-right: 20px;
+margin-left: 200px;
+	margin-right: 0px;
+	margin-bottom: 200px;
 
   @include mobile {
     float: none;
